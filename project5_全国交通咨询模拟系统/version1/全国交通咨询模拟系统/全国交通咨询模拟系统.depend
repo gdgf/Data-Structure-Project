@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1515139415 source:c:\users\wangkai\desktop\全国交通咨询模拟系统\全国交通咨询模拟系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	"NaTrSimulation.h"
+
+1515142085 c:\users\wangkai\desktop\全国交通咨询模拟系统\全国交通咨询模拟系统\natrsimulation.h
+
+1515144543 source:c:\users\wangkai\desktop\全国交通咨询模拟系统\全国交通咨询模拟系统\natrsimulation.c
+	<stdio.h>
+	<string.h>
+	"NaTrSimulation.h"
+

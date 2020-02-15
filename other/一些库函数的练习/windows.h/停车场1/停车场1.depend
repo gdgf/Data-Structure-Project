@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511006457 source:c:\users\wangkai\desktop\数据结构\c重要程序、数据结构、算法分析\一些库函数的练习\windows.h\停车场1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+

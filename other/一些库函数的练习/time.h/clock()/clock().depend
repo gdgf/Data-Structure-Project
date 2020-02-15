@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515065679 source:c:\users\wangkai\desktop\数据结构\c重要程序、数据结构、算法分析\一些库函数的练习\time.h\clock()\main.c
+	<time.h>
+	<stdio.h>
+

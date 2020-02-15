@@ -1,0 +1,14 @@
+﻿  adjacencyWDigraph.cpp
+d:\book\数据结构\progs\codes\changelength1d.h(17): error C2065: “min”: 未声明的标识符
+d:\book\数据结构\progs\codes\changelength1d.h(17): error C3861: “min”: 找不到标识符
+  d:\book\数据结构\progs\codes\changelength1d.h(17): note: “min”: 函数声明必须可用，因为所有参数都不依赖于模板参数
+d:\book\数据结构\progs\codes\graphchain.h(21): error C3861: “firstNode”: 找不到标识符
+  d:\book\数据结构\progs\codes\graphchain.h(47): note: 参见对正在编译的 类 模板 实例化 "graphChain<T>" 的引用
+d:\book\数据结构\progs\codes\graphchain.h(41): error C3861: “firstNode”: 找不到标识符
+d:\book\数据结构\progs\codes\graphchain.h(44): error C3861: “listSize”: 找不到标识符
+d:\book\数据结构\progs\codes\adjacencywdigraph.h(367): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  d:\book\数据结构\progs\codes\adjacencywdigraph.h(367): note: 参见对正在编译的 类 模板 实例化 "adjacencyWDigraph<T>::heapNode" 的引用
+  d:\book\数据结构\progs\codes\adjacencywdigraph.h(526): note: 参见对正在编译的 类 模板 实例化 "adjacencyWDigraph<T>" 的引用
+d:\book\数据结构\progs\codes\adjacencywdigraph.cpp(10): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\book\数据结构\progs\codes\adjacencywdigraph.cpp(45): error C2440: “=”: 无法从“int”转换为“std::pair<int,int> *”
+  d:\book\数据结构\progs\codes\adjacencywdigraph.cpp(45): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换

@@ -1,0 +1,26 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  LNode.c
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(14): warning C4133: “=”: 从“LinkList”到“LNode *”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(84): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(87): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(100): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(107): warning C4133: “=”: 从“LinkList”到“LNode *”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(115): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(119): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(131): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(135): warning C4133: “=”: 从“LNode *”到“LinkList”的类型不兼容
+  Test.c
+  algorithm.c
+  正在生成代码...
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(22): warning C4716: “CreateList_HL”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(33): warning C4716: “ClearList_L”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(28): warning C4716: “CreateList_TL”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(45): warning C4716: “ListEmpty_L”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(51): warning C4716: “ListLength_L”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(56): warning C4716: “LocateElem_L”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(61): warning C4716: “PriorElem_L”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(67): warning C4716: “NextElem_L”: 必须返回一个值
+e:\programming\c\vs\数据结构\线性表课本代码复现\线性表课本代码复现\lnode.c(72): warning C4716: “ListTraverse_L”: 必须返回一个值
+  线性表课本代码复现.vcxproj -> E:\Programming\C\VS\数据结构\线性表课本代码复现\Debug\线性表课本代码复现.exe
