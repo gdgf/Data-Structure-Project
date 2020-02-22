@@ -1,0 +1,6 @@
+﻿  8数码问题.cpp
+e:\myprogram\c++\8数码问题\8数码问题\8数码问题.cpp(66): warning C4101: “j”: 未引用的局部变量
+e:\myprogram\c++\8数码问题\8数码问题\8数码问题.cpp(95): warning C4101: “j”: 未引用的局部变量
+e:\myprogram\c++\8数码问题\8数码问题\8数码问题.cpp(193): warning C4101: “j”: 未引用的局部变量
+e:\myprogram\c++\8数码问题\8数码问题\8数码问题.cpp(171): warning C4715: “dfs”: 不是所有的控件路径都返回值
+  8数码问题.vcxproj -> E:\Myprogram\C++\8数码问题\Debug\8数码问题.exe
